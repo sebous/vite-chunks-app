@@ -1,5 +1,8 @@
 import { lazy, Suspense } from "react";
+
+// importing some other component from lib
 import { NoLibComponent } from "react-lib";
+
 const SelectLazy = lazy(() => import("./SelectComponent"));
 
 function App() {
