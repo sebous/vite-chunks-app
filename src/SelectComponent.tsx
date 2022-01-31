@@ -1,5 +1,5 @@
-// import ReactSelect from "react-select";
-import { Select } from "react-lib";
+import Select from "react-select";
+// import { Select } from "react-lib";
 
 const SelectComponent = () => {
   return <Select />;
