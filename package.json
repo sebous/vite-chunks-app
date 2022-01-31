@@ -11,7 +11,8 @@
     "lodash-es": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-lib": "file:../react-lib"
+    "react-lib": "file:../react-lib",
+    "react-select": "^5.2.2"
   },
   "devDependencies": {
     "@types/lodash-es": "^4.17.5",
